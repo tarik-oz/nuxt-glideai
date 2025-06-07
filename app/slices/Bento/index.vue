@@ -28,7 +28,7 @@ defineProps(
 	class="mx-auto mt-6 max-w-md text-balance text-center text-gray-300"
 	wrapper="div"
 	/>
-	<div class="mt-16 grid max-w-4xl grid-rows-[auto_auto_auto] gap-8 md:grid-cols-3 md:gap-10">
+	<div class="mt-16 grid max-w-5xl grid-rows-[auto_auto_auto] gap-8 md:grid-cols-3 md:gap-10">
 		<article 
 		v-for="item in slice.primary.bento" 
 		:key="$prismic.asText(item.title)"
