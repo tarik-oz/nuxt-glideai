@@ -1,15 +1,12 @@
 # Prismic + Nuxt Minimal Starter
 
+## Live Demo
+
+[Live Demo](https://nuxt-glideai.nuxt.dev)
+
 Want to quickly get started building your own project with [Prismic][prismic] and [Nuxt][nuxt]? This project includes basic configurations and nothing else. The project includes one Rich Text Slice, a homepage, and a dynamic page.
 
-- **Demo**: [Open live demo][live-demo]
 - **Learn more about Prismic and Nuxt**: [Prismic Nuxt Documentation][prismic-docs]
-
-&nbsp;
-
-![Starter screenshot](https://user-images.githubusercontent.com/31219208/228820114-98993841-0b14-40cf-9f39-1b81effe752f.png)
-
-&nbsp;
 
 ## 🚀 Quick Start
 
